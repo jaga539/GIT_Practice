@@ -1,3 +1,6 @@
 new line in dev
+<<<<<<< HEAD
 adding another line in dev
 Revert practice
+=======
+>>>>>>> parent of b3d852b... dev_test modified
